@@ -6,7 +6,7 @@
   <link href="https://keke-ovo.github.io/atom.xml" rel="self"/>
   
   <link href="https://keke-ovo.github.io/"/>
-  <updated>2021-03-19T02:12:35.063Z</updated>
+  <updated>2021-03-19T11:47:14.183Z</updated>
   <id>https://keke-ovo.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>page</title>
+    <link href="https://keke-ovo.github.io/2021/03/19/page/"/>
+    <id>https://keke-ovo.github.io/2021/03/19/page/</id>
+    <published>2021-03-19T11:41:43.000Z</published>
+    <updated>2021-03-19T11:47:14.183Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="全栈学习路线"><a href="#全栈学习路线" class="headerlink" title="全栈学习路线"></a>全栈学习路线</h1><h2 id="一、java基础"><a href="#一、java基础" class="headerlink" title="一、java基础"></a>一、java基础</h2><p><del>1.计算机基础</del></p><p><del>2.Java入门学习</del></p><p><del>3.Java基础语法</del></p><p><del>4.流程控制和方法</del></p><p><del>5.数组</del></p><p><del>6.面向对象编程</del></p><p><del>7.异常</del></p><p>8.常用类</p><p><del>9.集合框架</del></p><p>10.IO</p><p>11.多线程</p><p>12.GUI编程</p><p>13.网络编程</p><p>14.注解和反射</p><p>15.JUC编程</p><p>16.JVM探究</p><p>17.23种设计模式</p><p>18.数据结构和算法</p><p>19.正则表达式</p><h2 id="二、javaweb"><a href="#二、javaweb" class="headerlink" title="二、javaweb"></a>二、javaweb</h2><p><del>1.MySQL初级</del></p><p><del>2.JDBC</del></p><p><del>3.HTML</del></p><p><del>4.CSS</del></p><p>5.JS</p><p>6.jQuery</p><p>7.LayUI&amp;BootStrap</p><p>8.HTTP协议</p><p>9.TomCat</p><p>10.Servlet</p><p>11.Cookie&amp;Session</p><p>12.JSP</p><p>13.JSTL&amp;EL表达式</p><p>14.MVC和三层架构</p><p>15.过滤器</p><p>16.监听器</p><p>17.文件上传和下载</p><p>18.邮件收发</p><p>19.富文本编辑器</p><h2 id="三、SSM框架"><a href="#三、SSM框架" class="headerlink" title="三、SSM框架"></a>三、SSM框架</h2><p>1.Maven</p><p>2.Junit</p><p>3.Log4J</p><p>4.MyBatis</p><p>5.spring</p><p>6.springMVC</p><p>7.JSON</p><p>8.Ajax</p><p>9.SSM框架整合</p><p>10.Shiro</p><p>11.Solr</p><p>12.Git</p><p>13.MyBatis-Plus</p><p>14.MySQL高级</p><p>15.Netty</p><p>16.MyCat</p><h2 id="四、Linux运维"><a href="#四、Linux运维" class="headerlink" title="四、Linux运维"></a>四、Linux运维</h2><p>1.Linux基础</p><p>2.Shell编程</p><p>3.Linux系统管理</p><p>4.Linux网络</p><p>5.LAMP平台部署</p><p>6.LNMP平台部署</p><p>7.Nginx</p><p>8.ELK日志分析</p><p>9.MySQL集群</p><p>10.Redis</p><p>11.Linux集群</p><p>12.Docker</p><p>13.OpenStack</p><p>14.Kubernetes</p><h2 id="五、微服务和分布式"><a href="#五、微服务和分布式" class="headerlink" title="五、微服务和分布式"></a>五、微服务和分布式</h2><p>1.Vue</p><p>2.Node.js</p><p>3.SpringBoot原理</p><p>4.SpringBootWeb开发</p><p>5.SpringData</p><p>6.SpringSecurity</p><p>7.SpringBoot分布式开发</p><p>8.ActiveMQ</p><p>9.Elsticsearch</p><p>10.Dubbo + Zookeeper</p><p>11.SpringCloud Netflix全家桶</p><p>12.SpringCloud Alibaba全家桶</p><h2 id="六、大数据开发"><a href="#六、大数据开发" class="headerlink" title="六、大数据开发"></a>六、大数据开发</h2><p>1.负载均衡</p><p>2.Hadoop</p><p>3.Hive</p><p>4.HBase</p><p>5.Flume</p><p>6.Soop</p><p>7.Zookeeper</p><p>8.Impala</p><p>9.Scala编程</p><p>10.Spark系列</p><p>11.Kafka</p><h1 id="持续学习"><a href="#持续学习" class="headerlink" title="持续学习"></a>持续学习</h1><p><strong>java8，9，10，11，12新特新</strong></p><p><strong>Service Mesh</strong></p><p><strong>计算机网络原理</strong></p><p><strong>操作系统</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;全栈学习路线&quot;&gt;&lt;a href=&quot;#全栈学习路线&quot; class=&quot;headerlink&quot; title=&quot;全栈学习路线&quot;&gt;&lt;/a&gt;全栈学习路线&lt;/h1&gt;&lt;h2 id=&quot;一、java基础&quot;&gt;&lt;a href=&quot;#一、java基础&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
